@@ -1,0 +1,6 @@
+mne
+scikit-learn
+scipy
+joblib
+pylsl
+coppeliasim-zmqremoteapi-client
