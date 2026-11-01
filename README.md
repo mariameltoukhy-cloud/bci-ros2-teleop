@@ -2,7 +2,7 @@
 
 A simulated closed-loop brain-computer interface. Pre-recorded EEG from the PhysioNet EEG Motor Movement/Imagery Dataset is streamed over Lab Streaming Layer (LSL) as if it were a live subject. A ROS2 node decodes it with CSP + LDA, and the resulting left / right / rest decisions steer a simulated Pioneer P3DX robot in CoppeliaSim through `/cmd_vel`.
 
-> **Demo video:** `demo.mp4` (add your screen recording here)
+> **Demo video:** https://youtu.be/mRw6UKKdkEY
 
 ## Architecture
 
